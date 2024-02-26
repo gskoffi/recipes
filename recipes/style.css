@@ -1,0 +1,21 @@
+body {
+    background-image: url(images/chicken-wings-barbecue.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: rgb(248, 247, 244);
+    text-align: inherit;
+    font-size: 100px;
+}
+h3{
+    color: rgb(244, 247, 250);
+    text-align: center;
+    text-align: justify;
+    text-decoration: wavy;
+    font-size: 50px;
+}
+a{
+   color: white; 
+}
