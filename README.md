@@ -1,2 +1,2 @@
 # recipes
-recipes list
+recipes list of delicious food you can cook
